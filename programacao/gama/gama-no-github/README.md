@@ -1,0 +1,1 @@
+Eu já havia um conhecimento bem básico sobre git e um pouco mais no github, porém, com esse curso consegui aprender novos comandos que serão extremamente necessários em minha carreira como desenvolvedor Full-Stack.
